@@ -1,7 +1,7 @@
 # VPN-setup-for-Windows-10
 
 ## Instructions
-Setup VPN
+# Setup VPN
 
 In VPN settings select “add VPN Connection”.
 
